@@ -9,9 +9,9 @@ Pequeno projeto criado utilizando React Native. Um aplicativo de receitas com in
 </p>
 ### Tela de Receita
 <p align="center">
-	<img height="530px" src="imagens/imagens_readme/bolo.png">
-	<img height="530px" src="imagens/imagens_readme/bolo2.png">
-	<img height="530px" src="imagens/imagens_readme/bolo3.png">
+	<img height="510px" src="imagens/imagens_readme/bolo.png">
+	<img height="510px" src="imagens/imagens_readme/bolo2.png">
+	<img height="510px" src="imagens/imagens_readme/bolo3.png">
 </p>
 ### Tela de Sobre
 <p align="center">
