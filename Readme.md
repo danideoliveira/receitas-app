@@ -3,9 +3,13 @@ Pequeno projeto criado utilizando React Native. Um aplicativo de receitas com in
 
 ## Confira
 <p align="center">
-	<img src="imagens/imagens_readme/home.png">
-	<img src="imagens/imagens_readme/bolo.png">
-	<img src="imagens/imagens_readme/bolo2.png">
-	<img src="imagens/imagens_readme/bolo3.png">
-	<img src="imagens/imagens_readme/sobre.png">
+### Home
+	<img src="imagens/imagens_readme/home.png"
+### Tela de Receita
+	<img src="imagens/imagens_readme/bolo.png"
+	<img src="imagens/imagens_readme/bolo1.png"
+	<img src="imagens/imagens_readme/bolo2.png"
+### Tela de Sobre
+	<img src="imagens/imagens_readme/sobre.png"
 </p>
+
